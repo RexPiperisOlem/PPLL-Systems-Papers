@@ -335,14 +335,11 @@ This public paper was checked against private business-planning records, operati
 evidence logs, and human-gated workflow architecture. Those materials establish the operating pattern but contain 
 financial, personal, account, customer, security, and implementation details that are intentionally not reproduced here.
 Public verification links
-Paranoid People Live Longer storefront - Public evidence that the business operates a customer-facing ecommerce 
-storefront and publishes physical and digital product families.
-PPLL public GitHub profile - Public proof-of-work layer for selected systems and repository work. Private operating 
-materials are not implied by the public repository.
-Shopify: Digital Products - Official documentation for Shopify digital-product delivery capabilities referenced as part of 
-the commerce layer.
-Printful: Print on Demand - Official description of on-demand production and fulfillment, used here only to describe the 
-platform role in the operating model.
+
+- [Paranoid People Live Longer storefront](https://paranoidpeoplelivelonger.com) - Public evidence that the business operates a customer-facing ecommerce storefront and publishes physical and digital product families.
+- [PPLL public GitHub profile](https://github.com/RexPiperisOlem) - Public proof-of-work layer for selected systems and repository work.
+- [Shopify: Digital Products](https://help.shopify.com/en/manual/products/digital-service-product/digital-downloads) - Official documentation for Shopify digital-product delivery capabilities referenced as part of the commerce layer.
+- [Printful: How print-on-demand works](https://www.printful.com/how-printful-works/on-demand-drop-shipping) - Official description of on-demand production and fulfillment, used here only to describe the platform role in the operating model.
 Source discipline: Public platform pages verify platform functions and the existence of public-facing work. They do not 
 independently verify PPLL private workflows, profitability, internal controls, or unpublished business records. Those 
 claims are kept bounded to what the internal evidence actually supports.
