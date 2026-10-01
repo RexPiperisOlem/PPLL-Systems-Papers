@@ -8,8 +8,6 @@ A translation architecture that turns natural conversation into bounded work. It
 
 - [Read on GitHub](PPLL%20From%20Conversation%20to%20Controlled%20Work%20Systems%20Paper%20v1.0.md)
 
-The matching PDF and DOCX editions are preserved in the publication package with the same base filename.
-
 ## Collection
 
 [Back to the PPLL Systems Papers index](../README.md)
