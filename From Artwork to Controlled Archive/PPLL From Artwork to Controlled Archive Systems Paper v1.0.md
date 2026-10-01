@@ -337,10 +337,11 @@ paper.
 Public reference links
 The following public sources provide external context for the copyright and preventive-conservation principles referenced in this 
 paper. They do not establish the ownership, rights, attribution, value, or provenance of any specific work in the internal archive.
- Canadian Intellectual Property Office - What you should know about copyright
- Canadian Conservation Institute - Basic care: Works of art on paper
- Canadian Conservation Institute - Storing Works on Paper (CCI Note 11/2)
- Canadian Conservation Institute - Caring for paper objects
+
+- [Canadian Intellectual Property Office - What you should know about copyright](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/what-you-should-know-about-copyright)
+- [Canadian Conservation Institute - Basic care: Works of art on paper](https://www.canada.ca/en/conservation-institute/services/care-objects/paper-books/basic-care-art-paper.html)
+- [Canadian Conservation Institute - Storing Works on Paper (CCI Note 11/2)](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/storing-works-paper.html)
+- [Canadian Conservation Institute - Caring for paper objects](https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/paper-objects.html)
 CLOSING PRINCIPLE
 The archive is not the room where art waits. The archive is the control system that lets the object, its 
 history, its rights status, its digital descendants, and its public life remain connected even when 
