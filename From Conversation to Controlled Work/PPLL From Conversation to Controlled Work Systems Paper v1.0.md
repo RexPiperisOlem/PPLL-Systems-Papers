@@ -335,12 +335,11 @@ The central architecture represented here was tested as a translation problem: w
 state, constraints, authority, preservation requirements, and verification needs before acting. The public paper summarizes that 
 architecture without publishing the private implementation package.
 Public references
-National Institute of Standards and Technology (NIST), AI Risk Management Framework. A voluntary framework for incorporating 
-trustworthiness considerations into the design, development, use, and evaluation of AI systems. NIST notes that AI RMF 1.0 is under 
-revision as of 2026. NIST AI RMF
-NIST, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1). A crosssectoral companion resource addressing generative-AI risk management. NIST AI 600-1
-Paranoid People Live Longer. Public project and storefront. paranoidpeoplelivelonger.com
-Public GitHub portfolio. Repository-level proof of work for public systems, code, and documentation. github.com/RexPiperisOlem
+
+- [National Institute of Standards and Technology (NIST), AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework). A voluntary framework for incorporating trustworthiness considerations into the design, development, use, and evaluation of AI systems. NIST notes that AI RMF 1.0 is under revision as of 2026.
+- [NIST, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence). A cross-sectoral companion resource addressing generative-AI risk management.
+- [Paranoid People Live Longer](https://paranoidpeoplelivelonger.com). Public project and storefront.
+- [Public GitHub portfolio](https://github.com/RexPiperisOlem). Repository-level proof of work for public systems, code, and documentation.
 Source boundary
 External references above provide public context for risk management, evaluation, and human oversight. They do not define this 
 translation architecture and do not imply endorsement. The private source documents remain evidence for the project's 
