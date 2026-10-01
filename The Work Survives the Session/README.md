@@ -8,8 +8,6 @@ A continuity and handoff architecture for long-running AI-assisted work. It exte
 
 - [Read on GitHub](PPLL%20The%20Work%20Survives%20the%20Session%20Systems%20Paper%20v1.0.md)
 
-The matching PDF and DOCX editions are preserved in the publication package with the same base filename.
-
 ## Collection
 
 [Back to the PPLL Systems Papers index](../README.md)
