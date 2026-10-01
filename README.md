@@ -2,7 +2,7 @@
 
 Public proof-of-work papers from **Paranoid People Live Longer (PPLL)**.
 
-This collection contains five distinct systems papers. A paper belongs here when it represents a materially different operating architecture rather than another variation of an existing system.
+This collection contains five distinct Systems Papers. A paper belongs here when it represents a materially different operating architecture rather than another variation of an existing system.
 
 ## Papers
 
@@ -14,12 +14,23 @@ This collection contains five distinct systems papers. A paper belongs here when
 | [The Work Survives the Session](The%20Work%20Survives%20the%20Session/) | Continuity, handoff, source of truth, version state, and cold-start recovery | v1.0 |
 | [From Conversation to Controlled Work](From%20Conversation%20to%20Controlled%20Work/) | Translating ordinary conversation into bounded, authorized, verifiable work | v1.0 |
 
-## File format
+## Repository format
 
-Each paper folder contains a GitHub-readable Markdown edition. The complete publication package also carries matching PDF and DOCX editions using the same human-readable base filename.
+Each paper folder contains:
+
+- a short repository README;
+- the complete GitHub-readable Markdown edition of the paper.
+
+The filenames follow the PPLL naming architecture: human-readable titles, spaces by default, and explicit version labels.
 
 ## Collection principle
 
 Across the collection, the recurring design questions are practical: what state must survive, what evidence supports a claim, what can be delegated, what still requires human authority, what counts as completion, and how a system recovers when it fails.
 
-Project: [paranoidpeoplelivelonger.com](https://paranoidpeoplelivelonger.com)
+## Main doors
+
+- [Roger Crosby GitHub profile](https://github.com/RexPiperisOlem)
+- [PPLL Signal Archive](https://github.com/RexPiperisOlem/PPLL-Signal-Archive)
+- [Paranoid People Live Longer](https://paranoidpeoplelivelonger.com)
+
+Contact: info@paranoidpeoplelivelonger.com
